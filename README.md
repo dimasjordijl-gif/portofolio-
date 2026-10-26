@@ -2,6 +2,10 @@
 
 Website portfolio personal branding menggunakan **PHP Native + SQLite + Bootstrap 5**.
 
+## Tampilan Proyek
+
+![Tampilan Portfolio](ss/gambar_proyek.png)
+
 ## Keunggulan Versi SQLite
 - ✅ **Zero config** — tidak perlu install MySQL/MariaDB
 - ✅ **Database otomatis dibuat** saat pertama kali diakses
@@ -20,6 +24,8 @@ portfolio-sqlite/
 │   └── functions.php  # Fungsi query database
 ├── data/
 │   └── portfolio.db   # ← Dibuat otomatis saat pertama akses
+├── ss/
+│   └── gambar_proyek.png  # Screenshot tampilan proyek untuk README
 └── README.md
 ```
 
